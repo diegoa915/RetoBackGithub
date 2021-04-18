@@ -18,3 +18,4 @@ Para editar los productos de la lista:
  
  para eliminar  el prodcuto :
  http://localhost:8080/products/eliminar/(numero del id)  ejemplo:  http://localhost:8080/products/eliminar/1
+Para almacenar la lista de productos se creo una base de datos con mysql, la cual esta djunta como script para ser generada
